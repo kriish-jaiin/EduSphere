@@ -1,14 +1,14 @@
 {
-	"name": "edusphere-backend",
+	"name": "skillstream-backend",
 	"version": "1.0.0",
-	"description": "edusphere-backend",
+	"description": "skillstream-backend",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
 		"dev": "nodemon index.js"
 	},
 	"keywords": [
-		"edusphere-backend"
+		"skillstream-backend"
 	],
 	"author": "Rahul Naval",
 	"license": "ISC",
